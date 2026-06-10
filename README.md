@@ -61,7 +61,7 @@ https://health-intelligence-agent-r2jv9auagqjw5ak3nncedr.streamlit.app/
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/harshhh28/hia.git](https://github.com/divyankmalik/Health-Intelligence-Agent)
+git clone https://github.com/divyankmalik/Health-Intelligence-Agent
 cd hia
 ```
 
