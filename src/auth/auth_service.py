@@ -96,8 +96,8 @@ class AuthService:
                 "created_at": datetime.now().isoformat(),
             }
 
-            # Insert user data into users table
-            self.supabase.table("users").insert(user_data).execute()
+            # Row is inserted automatically by the on_auth_user_created trigger
+            # No manual insert needed — doing so would hit RLS and fail
 
             # If we got a session immediately (email confirmation off), store it
             if auth_response.session:
