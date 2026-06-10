@@ -11,8 +11,7 @@ https://health-intelligence-agent-r2jv9auagqjw5ak3nncedr.streamlit.app/
   <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> |
   <a href="#-installation">Installation</a> |
   <a href="#-project-structure">Project Structure</a> |
-  <a href="#-contributing">Contributing</a> |
-  <a href="#%EF%B8%8F-author">Author</a>
+ 
 </p>
 
 
